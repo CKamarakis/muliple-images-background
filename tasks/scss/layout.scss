@@ -1,0 +1,15 @@
+@import "colors";
+@import "mixins";
+@import "structure";
+@import "clearfix";
+@import "background";
+
+.introduction{
+	background:rgba(255, 255, 255, 0.6);
+	width:80%;
+	text-align: center;
+	margin:15vh auto 0;
+	padding:30px;
+	@include create-round-corners(4px);
+}
+
