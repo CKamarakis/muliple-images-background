@@ -1,4 +1,4 @@
-# muliple-image-background
+# muliple-images-background
 ###Dynamic background according to the number of images provided.
 
 This effect was a request from a friend, so I made it public for anyone else that might be struggling with it.
